@@ -1,4 +1,4 @@
-s test code is write for Arduino AVR Series(UNO, Leonardo, Mega)
+/* s test code is write for Arduino AVR Series(UNO, Leonardo, Mega)
   If you want to use with LinkIt ONE, please connect the module to D0/1 and modify:
 
   // #include <SoftwareSerial.h>
@@ -385,30 +385,3 @@ double getPressure()
   }
   else Serial.println("error starting temperature measurement\n");
 }
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-
